@@ -48,7 +48,7 @@
 
 ### Prerequisites
 
-- **Node.js** &gt;= 18.x
+- **Node.js** >= 18.x
 - **Docker** & **Docker Compose**
 - **Git**
 
